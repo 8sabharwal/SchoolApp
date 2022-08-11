@@ -1,0 +1,18 @@
+"id","email","enable","first_name","last_name","location","password","phone"
+1,"durgeshkumar8896@gmail.com",True,NULL,NULL,NULL,"durgeshkumar8896",0
+3,"durgeshkur8896@gmail.com",True,NULL,NULL,NULL,"durgeshk8896",0
+5,"h@gmail.com",True,NULL,NULL,NULL,"edwce",33
+7,"b@gmail.com",True,NULL,NULL,NULL,"djbcj ",88888
+9,"sahil@gmail.com",True,NULL,NULL,NULL,"sahil",22
+11,"s@gmail.com",True,NULL,NULL,NULL,"vhasvdsj",3
+13,"admin@gmail.com",True,NULL,NULL,NULL,"admin",22
+14,"admin@gmail.com",True,NULL,NULL,NULL,"admin",22
+17,"admin1@gmail.com",True,NULL,NULL,NULL,"admin",222
+19,"a@gmail.com",True,NULL,NULL,NULL,"a",22
+21,"ad@gmail.com",True,NULL,NULL,NULL,"ad",66
+23,"ad1@gmail.com",True,NULL,NULL,NULL,"admin",3
+24,"ad1@gmail.com",True,NULL,NULL,NULL,"admin",3
+27,"ba@gmail.com",True,NULL,NULL,NULL,"bb",3
+29,"ada@gmail.com",True,NULL,NULL,NULL,"ada",3
+31,"adi@gmail.com",True,"sahil","b","pune","adi",12345
+33,"sanket@gmail.com",True,NULL,NULL,NULL,"sanket",3
